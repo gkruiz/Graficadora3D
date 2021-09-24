@@ -1,0 +1,17 @@
+<py2>
+	<ecuacion>
+		+(((1)x^(2))/4)+(((1)y^(2))/8)+(((1)z^(2))/1) = 0
+	</ecuacion>
+	<ejex>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejex>
+	<ejey>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejey>
+	<ejez>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejez>
+</py2>

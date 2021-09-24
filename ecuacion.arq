@@ -1,0 +1,22 @@
+<py2>
+<ecuacion>
+	   +(((1)x^(2))/1)+(((1)y^(2))/1)-(((1)z^(2))/1)=1000
+</ecuacion>
+
+<ejex>
+	   <linf>-100</linf>  
+	   <lsup>100</lsup>
+</ejex>
+
+<ejey>
+
+	   <linf>-100</linf>	
+	   <lsup>100</lsup>
+</ejey>
+
+<ejez>
+	   <linf>-100</linf>
+	   <lsup>100</lsup>
+</ejez>
+
+</py2>
